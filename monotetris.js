@@ -1,7 +1,7 @@
-#
-# Monotetris Game
-# https://makecode.microbit.org/
-#
+//
+// Monotetris Game
+// https://makecode.microbit.org/
+//
 
 let score = 0
 input.onButtonPressed(Button.A, () => {
